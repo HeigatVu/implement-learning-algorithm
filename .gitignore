@@ -1,3 +1,2 @@
-
-# Ignore large dataset files
+# CSV files
 *.csv
