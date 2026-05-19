@@ -1,3 +1,5 @@
 # CSV files
 *.csv
 graphify-out/*
+data/*
+GRAPH_REPORT.md
