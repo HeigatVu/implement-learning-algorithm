@@ -3,3 +3,5 @@
 graphify-out/*
 data/*
 GRAPH_REPORT.md
+.antigravitycli
+.vscode
